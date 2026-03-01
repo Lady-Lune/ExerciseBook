@@ -3,3 +3,5 @@ __pycache__
 exenv
 scraping/listings.csv
 scraping/reviews.jl
+combined_prices.csv
+data
