@@ -5,3 +5,5 @@ scraping/listings.csv
 scraping/reviews.jl
 combined_prices.csv
 data
+Diamonds_Regression_Report.md
+Examples
